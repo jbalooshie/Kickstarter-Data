@@ -1,5 +1,5 @@
 # Module One Kickstarter Challenge
-
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 1 Challenge. This challenge served as introduction to basic Microsoft Excel skills such as importing data, creating graphs, and working with pivot tables. This repo contains additional datasets that were reviewed as part of grading the assignment.
 
 # Overview of Project
 The purpose of this analysis is to provide a detailed breakdown of how different campaigns fared in relation to their launch dates and their funding goals. Specifically, we will provide recommendations on the ideal time to launch a campaign, and how much money the campaign should seek to raise, while still successfully meeting or exceeding its funding goals. We will specifically be focusing on campaigns in the "plays" subcategory on Kickstarter. At the end of this analysis, an individual seeking to launch a Kickstarter campaign to fund a play will have the information they need to maximize their campaign's chances of being funded.
